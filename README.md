@@ -1,4 +1,8 @@
-<h4>My Skill And Tools</h4>
+<p align="center">Ahnaf Samih</p>
+<h2>Frontend Web Dev </></h2>
+
+
+<h3>My Skill And Tools</h3>
 
 <div>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35" /></a>
