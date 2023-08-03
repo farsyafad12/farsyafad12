@@ -1,5 +1,5 @@
 <p align="center">Ahnaf Samih</p>
-<h2>Frontend Web Dev </></h2>
+<h2 align="center">Frontend Web Developer & UI/UX</h2>
 
 
 <h3>My Skill And Tools</h3>
