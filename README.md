@@ -1,8 +1,8 @@
 <p align="center">Ahnaf Samih</p>
 <h2 align="center">Frontend Web Developer & UI/UX</h2>
 
-- 📫 email Me : contantfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.fun
-- 👨‍💻 My Website : [https://farsyafad.fun](https://farsyafad.fun)
+- 📫 email Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
+- 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
 
 <h3>My Skill</h3>
 
