@@ -3,8 +3,8 @@
 
 
 <h3>About Me</h3>
-- 📫 email Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
-- 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
+<div>- 📫 email Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech</div>
+<div>- 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)</div>
 
 <h3>My Skill</h3>
 
@@ -27,12 +27,6 @@
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" /></a>
   <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="35" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" /></a>
-</div>
-
-
-
-<div>
-  <p size="100">Last Change On 26 Nov 2023</p>
 </div>
 
 
