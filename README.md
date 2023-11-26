@@ -32,3 +32,5 @@
 <div>
   <p size="100">Last Change On 26 Nov 2023</p>
 </div>
+<p style="font-size: 16px;">Ini adalah contoh teks dengan ukuran font yang diatur.</p>
+
