@@ -30,5 +30,5 @@
 
 
 <div>
-  <p style="font-size: 50px;">Last Change On 26 Nov 2023</p>
+  <p size="100">Last Change On 26 Nov 2023</p>
 </div>
