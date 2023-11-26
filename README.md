@@ -1,5 +1,5 @@
 <p align="center">Ahnaf Samih</p>
-<h2 align="center">Frontend Web Developer & UI/UX</h2>
+<h2 align="center">Frontend Web Developer & Freelancer</h2>
 
 - 📫 email Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
 - 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
@@ -32,5 +32,5 @@
 <div>
   <p size="100">Last Change On 26 Nov 2023</p>
 </div>
-<p style="font-size: 16px;">Ini adalah contoh teks dengan ukuran font yang diatur.</p>
+
 
