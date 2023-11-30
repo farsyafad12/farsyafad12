@@ -1,3 +1,4 @@
+<img src="https://github.com/farsyafad12/Database_Desain/blob/landing-page/logo-farsyafad..png">
 <p align="center">Ahnaf Samih</p>
 <h2 align="center">Frontend Web Developer & Freelancer</h2>
 
