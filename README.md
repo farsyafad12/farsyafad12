@@ -5,7 +5,7 @@
 
 <h3>About Me</h3>
 
-- 📫 email Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
+- 📫 Contact Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
 - 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
 
 <h3>My Skill</h3>
