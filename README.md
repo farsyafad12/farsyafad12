@@ -4,6 +4,10 @@
 
 
 <h3>About Me</h3>
+<p>Halo, Saya Ahnaf Samih !</p>
+
+
+<h3>Contact Me</h3>
 
 - 📫 Contact Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
 - 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
