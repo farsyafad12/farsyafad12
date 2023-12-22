@@ -6,12 +6,6 @@
 <h3>About Me</h3>
 <p>Halo, Saya Ahnaf Samih !</p>
 
-
-<h3>Contact Me</h3>
-
-- 📫 Contact Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
-- 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
-
 <h3>My Skill</h3>
 
 <div>
@@ -36,4 +30,9 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/></a>
 </div>
 
+
+<h4>Contact Me</h4>
+
+- 📫 Contact Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
+- 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
 
