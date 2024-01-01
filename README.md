@@ -33,6 +33,6 @@
 
 <h4>Contact Me</h4>
 
-- 📫 Contact Me : contactfarsyafad1332@gmail.com <b>Or</b> contact@farsyafad.tech
+- 📫 Contact Me : alfarisiahnaf@gmail.com <b>Or</b> contact@farsyafad.tech
 - 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
 
