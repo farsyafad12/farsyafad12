@@ -18,7 +18,7 @@
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" /></a>
-  <a href="https://www.laravel.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/laravel_icon_135451.png" width="35" /></a>
+  <a href="https://www.laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" width="35" /></a>
 </div>
 
 <h3>Tools</h3>
