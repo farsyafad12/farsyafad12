@@ -20,6 +20,7 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" /></a>
   <a href="https://www.laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" width="38" /></a>
   <a href="https://www.laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="44" /></a>
+  <a href="https://www.laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38" /></a>
 </div>
 
 <h3>Tools</h3>
