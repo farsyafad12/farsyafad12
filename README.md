@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/farsyafad12/Database_Desain/blob/landing-page/logo-farsyafad..png" width="100" height="100"></div>
 <p align="center">Ahnaf Samih</p>
-<h2 align="center">Frontend Web Development & Freelancer</h2>
+<h2 align="center">Junior Fullstack Web Development</h2>
 
 
 <h3>About Me</h3>
