@@ -39,4 +39,5 @@
 - 📫 Contact Me : alfarisiahnaf@gmail.com
 - 👨‍💻 My Website : [https://farsyafad.tech](https://farsyafad.tech)
 - 🌐 My Microsite : [Microsite Beacons AI](https://beacons.ai/farsyafad)
+- 🛍 My Store : [My Official Store](https://beacons.ai/farsyafad/farsyafadstore)
 
