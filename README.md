@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/farsyafad12/Database_Desain/blob/landing-page/logo-farsyafad..png" width="100" height="100"></div>
+<div align="center"><img src="https://farsyafad.tech/images/logo-farsyafad-coding.png" width="100" height="100"></div>
 <p align="center">Ahnaf Samih</p>
 <h2 align="center">Junior Fullstack Web Development</h2>
 
