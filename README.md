@@ -1,4 +1,4 @@
-<div align="center"><img src="../images/farsyafad-tech.png" width="100" height="100"></div>
+<div align="center"><img src="images/farsyafad-tech.png" width="100" height="100"></div>
 <p align="center">Ahnaf Samih</p>
 <h2 align="center">Junior Fullstack Web Development</h2>
 
