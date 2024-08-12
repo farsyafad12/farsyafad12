@@ -1,9 +1,11 @@
 [
     {
       "Nama": "Ahnaf Samih Al Farisi",
-      "Keahlian": ["Junior Fullstack Developer", "entrepreneur"],
+      "Sekolah": "MAN 5 Jakarta",
+      "Hobi": "Ngoding Dan Jualan",
+      "Keahlian": ["Web Developer", "entrepreneur"],
       "AlamatEmail": "alfarisiahnaf@gmail.com",
-      "SitusWeb": "https://farsyafad.tech",
+      "Microsite": "https://beacons.ai/farsyafad",
       "MediaSosial": "https://www.instagram.com/farsyafad_official/",
       "Tempat-Tinggal": "Indonesia"
     }
