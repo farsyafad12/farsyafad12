@@ -1,42 +1,40 @@
 <div align="center"><img src="images/farsyafad-tech.png" width="100" height="100" style="border-radius: 15px;"></div>
-<p align="center">Ahnaf Samih</p>
-<h2 align="center">Junior Fullstack Web Development & IoT Enthusiats</h2>
+<p align="center">Ahnaf Samih Al-Farisi</p>
+<p align="center">Junior Fullstack Web Development | IoT Enthusiats | Entrepreneur</p>
 
-<h3>About Me</h3>
-<p>likes creating websites and IoT projects 🌐👨‍💻</p>
+<hr/>
 
-<h3>My Skill</h3>
+## About Me
+Let me introduce myself, my name is **Ahnaf Samih Al-Farisi**. I am very interested in the world of technology, especially in the fields of IoT, coding, and various programming languages. My interest in technology started when I was in elementary school. Currently, I am a FullStack Developer with more than 2 years of experience. I am also focusing on developing projects in the IoT field to create tools that can help society.
 
-<div>
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" /></a>
-  <!-- <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" /></a> -->
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" /></a>
-  <!-- <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" /></a> -->
-  <a href="https://www.laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" width="38" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="44" /></a>
-</div>
-
-<h3>Tools</h3>
+## My Skill
 
 <div>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="35" /></a>
-   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" /></a>
-  <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="35" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="35"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="38" />
 </div>
 
-<h4>Contact Me</h4>
+
+## Contact Me
 
 - 🏫School : MAN 5 Jakarta
 - 📫 Contact Me : alfarisiahnaf@gmail.com
-- 🌐 My Microsite : [Microsite Beacons AI](https://beacons.ai/farsyafad)
-- 🛍 My Store : [My Official Store](https://beacons.ai/farsyafad/farsyafadstore)
+- 🌐 My Official Website : [FarSyaFad ID Official Website](https://farsyafad.vercel.app)
+- 🛍️ My Store : [My Official Store](https://shopee.co.id/farsyafad_store)
+- 📦 My Digital Product & Service : [Lynk.id Website](https://lynk.id/farsyafad)
+
+
+*~ Last Update : 16/01/2025 By Ahnaf Samih*
