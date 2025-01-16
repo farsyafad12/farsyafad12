@@ -2,8 +2,6 @@
 <p align="center">Ahnaf Samih Al-Farisi</p>
 <p align="center">Junior Fullstack Web Development | IoT Enthusiats | Entrepreneur</p>
 
-<hr/>
-
 ## About Me
 Let me introduce myself, my name is **Ahnaf Samih Al-Farisi**. I am very interested in the world of technology, especially in the fields of IoT, coding, and various programming languages. My interest in technology started when I was in elementary school. Currently, I am a FullStack Developer with more than 2 years of experience. I am also focusing on developing projects in the IoT field to create tools that can help society.
 
@@ -37,4 +35,4 @@ Let me introduce myself, my name is **Ahnaf Samih Al-Farisi**. I am very interes
 - 📦 My Digital Product & Service : [Lynk.id Website](https://lynk.id/farsyafad)
 
 
-*~ Last Update : 16/01/2025 By Ahnaf Samih*
+~ Last Update : 16/01/2025 By Ahnaf Samih
